@@ -24,7 +24,7 @@ These days most of my work is about **AI agents and automation**. I design agent
 const alejandro = {
   role:      "Full-Stack Developer & AI Automation Engineer",
   company:   "64 Software Train",
-  location:  "Málaga, Spain ",
+  location:  "Málaga, Spain",
   frontend:  ["Vue 3", "TypeScript", "Pinia", "Tailwind", "Ionic", "Capacitor"],
   backend:   ["Laravel", "PHP", "Node.js", "Python", "REST", "WebSockets"],
   ai:        ["Claude API", "Agent SDK", "Claude Code", "MCP servers", "Multi-agent workflows"],
