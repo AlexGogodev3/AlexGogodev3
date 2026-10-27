@@ -1,91 +1,132 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Alejandro Ruiz Muñoz — Full-Stack Developer & AI Automation Engineer" width="100%"/>
+</p>
 
-# Hi, I'm Alejandro Ruiz 👋
+<p align="center">
+  <a href="https://64train.com/"><img src="https://img.shields.io/badge/64train.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/alejandro-ruiz-mu%C3%B1oz-b41483216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alejandro@64train.com"><img src="https://img.shields.io/badge/alejandro@64train.com-D97757?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+</p>
 
-**Full-Stack Developer & AI Automation Engineer @ [64 Software Train](https://64train.com/)**
-
-Vue · Laravel · Oracle Cloud (OCI) · AI Agents with Claude
-
-[![Web](https://img.shields.io/badge/64train.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://64train.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-ruiz-mu%C3%B1oz-b41483216/)
-[![Email](https://img.shields.io/badge/alejandro@64train.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandro@64train.com)
-
-🇬🇧 [English](#-english) · 🇪🇸 [Español](#-español)
-
-</div>
+<p align="center">
+  <a href="https://github.com/AlexGogodev3"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D97757&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+ship+real+work;Vue+%2B+Laravel+products+from+MVP+to+scale;Automating+workflows+with+Claude+%2B+MCP;Deploying+on+Oracle+Cloud+Infrastructure" alt="Typing SVG"/></a>
+</p>
 
 ---
 
-## 🇬🇧 English
+### 👨‍💻 About me
 
-I build web and mobile products end to end, from the Laravel API to the Vue front end and the cloud they run on. Lately most of my work is about **AI agents and automation**: designing agents with Claude, connecting them to real systems through tools and MCP, and turning repetitive workflows into pipelines that run on their own.
+I'm a full-stack developer at **[64 Software Train](https://64train.com/)**, based in Málaga. I design and build web and mobile products end to end, from the database and the Laravel API to the Vue interface and the Oracle Cloud infrastructure they run on.
 
-### What I do
+These days most of my work is about **AI agents and automation**. I design agents with Claude, connect them to real systems through tools and MCP servers, and turn repetitive processes into pipelines that run on their own.
 
-- 🧩 **Full-stack web apps**: Vue 3 + Laravel, from MVP to production SaaS
-- 🤖 **AI agents & automation**: Claude API, Agent SDK, Claude Code, MCP servers, tool use, multi-agent workflows
-- ☁️ **Cloud & DevOps**: Oracle Cloud Infrastructure (OCI), Linux, Docker, CI/CD
-- 📱 **Mobile apps**: Ionic + Capacitor, from one codebase to iOS, Android and the web
-- 🏗️ **Architecture**: DDD, modular monoliths, REST APIs, real-time features
+```ts
+const alejandro = {
+  role:      "Full-Stack Developer & AI Automation Engineer",
+  company:   "64 Software Train",
+  location:  "Málaga, Spain 🇪🇸",
+  frontend:  ["Vue 3", "TypeScript", "Pinia", "Tailwind", "Ionic", "Capacitor"],
+  backend:   ["Laravel", "PHP", "Node.js", "Python", "REST", "WebSockets"],
+  ai:        ["Claude API", "Agent SDK", "Claude Code", "MCP servers", "Multi-agent workflows"],
+  cloud:     ["Oracle Cloud (OCI)", "Docker", "Linux", "CI/CD"],
+  languages: ["Spanish", "English"],
+};
+```
 
-### Projects I've worked on
+### 🚀 What I do
 
-- 🎓 Learning platforms (LMS) and course builders
-- 🔐 An NFC access control system: Android app, API, admin panel and Raspberry Pi reader
-- 📸 A geolocated photo gamification app
-- 🏘️ A community management SaaS (web and mobile)
-- 🎮 Serious games and interactive experiences
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI Agents & Automation</h4>
+      Agents built on the Claude API and Agent SDK, custom tools and <b>MCP servers</b> that connect them to business data, and multi-agent workflows that automate real processes from start to finish.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Full-Stack Web Apps</h4>
+      <b>Vue 3 + Laravel</b> products, from MVP to production SaaS: clean architecture (DDD, modular monoliths), solid APIs, real-time features and admin panels.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & DevOps</h4>
+      Deployments on <b>Oracle Cloud Infrastructure</b>: compute, networking, storage, containers with Docker and automated CI/CD pipelines.
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile & Beyond</h4>
+      Cross-platform apps with <b>Ionic + Capacitor</b>, NFC and IoT integrations (Android HCE, Raspberry Pi), Smart TV apps and serious games.
+    </td>
+  </tr>
+</table>
 
-## 🇪🇸 Español
+### 🏗️ Selected work
 
-Desarrollo productos web y móviles de principio a fin, desde la API en Laravel hasta el front en Vue y la nube donde se despliegan. Hoy la mayor parte de mi trabajo gira en torno a los **agentes de IA y la automatización**: diseño agentes con Claude, los conecto a sistemas reales mediante herramientas y MCP, y convierto procesos repetitivos en flujos que funcionan solos.
+| Domain | What I built |
+|---|---|
+| 🎓 **E-learning** | LMS platforms, course builders and an interactive visual-novel engine for language learning |
+| 🔐 **Access control** | An NFC access system: Android HCE app, FastAPI backend, admin panel and Raspberry Pi reader |
+| 📸 **Gamification** | A geolocated photo gamification app (Laravel 12 + Filament + Ionic + Vue) |
+| 🏘️ **SaaS** | A community management platform with real-time notifications, web and mobile |
+| 🧠 **AI** | Agents and automations with Claude that run internal processes from start to finish |
 
-### Qué hago
+### 🛠️ Tech stack
 
-- 🧩 **Aplicaciones web full-stack**: Vue 3 + Laravel, del MVP al SaaS en producción
-- 🤖 **Agentes de IA y automatización**: Claude API, Agent SDK, Claude Code, servidores MCP, tool use, flujos multiagente
-- ☁️ **Cloud y DevOps**: Oracle Cloud Infrastructure (OCI), Linux, Docker, CI/CD
-- 📱 **Apps móviles**: Ionic + Capacitor, con un solo código para iOS, Android y web
-- 🏗️ **Arquitectura**: DDD, monolitos modulares, APIs REST, tiempo real
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,html,css&perline=12" alt="Frontend"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,fastapi,mysql,postgres,redis,prisma&perline=12" alt="Backend"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,kotlin,cs,unity&perline=12" alt="DevOps & more"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament"/>
+</p>
 
-### Proyectos en los que he trabajado
+### 📊 GitHub activity
 
-- 🎓 Plataformas de formación (LMS) y creadores de cursos
-- 🔐 Un sistema de control de acceso NFC: app Android, API, panel de administración y lector en Raspberry Pi
-- 📸 Una app de gamificación fotográfica geolocalizada
-- 🏘️ Un SaaS de gestión de comunidades (web y móvil)
-- 🎮 Juegos serios y experiencias interactivas
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexGogodev3&theme=tokyonight&hide_border=true&border_radius=12&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="GitHub streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGogodev3&theme=tokyo-night&hide_border=true&radius=12&area=true&color=D97757&line=42B883&point=F5F7FA" alt="Contribution graph" width="49%"/>
+</p>
 
 ---
 
-<div align="center">
-
-### 🛠️ Tech Stack
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary><b>🇪🇸 Leer en español</b></summary>
 
 <br/>
 
-📍 Málaga, Spain · 💬 Spanish & English
+### 👨‍💻 Sobre mí
 
-</div>
+Soy desarrollador full-stack en **[64 Software Train](https://64train.com/)**, en Málaga. Diseño y construyo productos web y móviles de principio a fin, desde la base de datos y la API en Laravel hasta la interfaz en Vue y la infraestructura en Oracle Cloud.
+
+Hoy la mayor parte de mi trabajo gira en torno a los **agentes de IA y la automatización**. Diseño agentes con Claude, los conecto a sistemas reales mediante herramientas y servidores MCP, y convierto procesos repetitivos en flujos que funcionan solos.
+
+### 🚀 Qué hago
+
+- 🤖 **Agentes de IA y automatización**: Claude API, Agent SDK, Claude Code, servidores MCP y flujos multiagente
+- 🧩 **Aplicaciones web full-stack**: Vue 3 + Laravel, del MVP al SaaS en producción, con DDD y APIs sólidas
+- ☁️ **Cloud y DevOps**: despliegues en Oracle Cloud Infrastructure (OCI), Docker, Linux y CI/CD
+- 📱 **Móvil y más**: apps multiplataforma con Ionic + Capacitor, integraciones NFC e IoT, apps para Smart TV y juegos serios
+
+### 🏗️ Proyectos destacados
+
+- 🎓 Plataformas de formación (LMS), creadores de cursos y un motor de novela visual para aprender idiomas
+- 🔐 Un sistema de control de acceso NFC: app Android HCE, backend FastAPI, panel de administración y lector en Raspberry Pi
+- 📸 Una app de gamificación fotográfica geolocalizada
+- 🏘️ Una plataforma SaaS de gestión de comunidades con notificaciones en tiempo real
+- 🧠 Agentes y automatizaciones con Claude que resuelven procesos internos de principio a fin
+
+📬 **Contacto:** [alejandro@64train.com](mailto:alejandro@64train.com) · [LinkedIn](https://www.linkedin.com/in/alejandro-ruiz-mu%C3%B1oz-b41483216/) · [64train.com](https://64train.com/)
+
+</details>
+
+<p align="center">
+  <sub>💬 Open to collaborations on AI agents, automation and Vue/Laravel products · Abierto a colaborar en agentes de IA, automatización y productos Vue/Laravel</sub>
+</p>
