@@ -88,13 +88,6 @@ const alejandro = {
   <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament"/>
 </p>
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexGogodev3&theme=tokyonight&hide_border=true&border_radius=12&ring=D97757&fire=D97757&currStreakLabel=D97757" alt="GitHub streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexGogodev3&theme=tokyo-night&hide_border=true&radius=12&area=true&color=D97757&line=42B883&point=F5F7FA" alt="Contribution graph" width="49%"/>
-</p>
-
 ---
 
 <details>
