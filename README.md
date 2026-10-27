@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Alejandro Ruiz Muñoz — Full-Stack Developer & AI Automation Engineer" width="100%"/>
+  <a href="https://64train.com/"><img src="./assets/banner.svg" alt="Alejandro Ruiz Muñoz — Full-Stack Developer & AI Automation Engineer" width="100%"/></a>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlexGogodev3"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D97757&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+ship+real+work;Vue+%2B+Laravel+products+from+MVP+to+scale;Automating+workflows+with+Claude+%2B+MCP;Deploying+on+Oracle+Cloud+Infrastructure" alt="Typing SVG"/></a>
+  <a href="#about-me"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D97757&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+ship+real+work;Vue+%2B+Laravel+products+from+MVP+to+scale;Automating+workflows+with+Claude+%2B+MCP;Deploying+on+Oracle+Cloud+Infrastructure" alt="Typing SVG"/></a>
 </p>
 
 ---
@@ -71,21 +71,21 @@ const alejandro = {
 ### Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,html,css&perline=12" alt="Frontend"/>
+  <a href="#tech-stack"><img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,html,css&perline=12" alt="Frontend"/></a>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,fastapi,mysql,postgres,redis,prisma&perline=12" alt="Backend"/>
+  <a href="#tech-stack"><img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,fastapi,mysql,postgres,redis,prisma&perline=12" alt="Backend"/></a>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,kotlin,cs,unity&perline=12" alt="DevOps & more"/>
+  <a href="#tech-stack"><img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,githubactions,kotlin,cs,unity&perline=12" alt="DevOps & more"/></a>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
-  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament"/>
+  <a href="https://www.anthropic.com/claude"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/></a>
+  <a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/></a>
+  <a href="https://ionicframework.com"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/></a>
+  <a href="https://capacitorjs.com"><img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/></a>
+  <a href="https://filamentphp.com"><img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black" alt="Filament"/></a>
 </p>
 
 ---
